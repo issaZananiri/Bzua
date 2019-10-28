@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "650034402903",
+    "firebase_url": "https://parkbirzeitsecurity.firebaseio.com",
+    "project_id": "parkbirzeitsecurity",
+    "storage_bucket": "parkbirzeitsecurity.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:650034402903:android:911773e16eba79f39bb512",
+        "android_client_info": {
+          "package_name": "com.example.securityparkbirzeit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "650034402903-7d0ggse00ga4tn7ckv4k3ibhu6vujk12.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbWPJ14BzwIJaxAK1NbMLg4mGb1jh7qk8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "650034402903-7d0ggse00ga4tn7ckv4k3ibhu6vujk12.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
